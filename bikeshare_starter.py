@@ -59,6 +59,12 @@ def time_stats(df):
 
     # display the most common start hour
 
+    # just dislplay actual time with date and time together
+    named_tuple = time.localtime() # get struct_time
+    time_string = time.strftime("%m/%d/%Y, %H:%M:%S", named_tuple)
+    print(time_string)
+
+
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
