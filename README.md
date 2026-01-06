@@ -3,7 +3,9 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+This is a Testproject for git training purpose.
+There is **no** actual usage for.
+It was cloned from a starter project of udacity content.
 
 ## Information about how to use your project
 
@@ -13,6 +15,12 @@ This could include:
 - Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
+
+## Code examples
+´´´
+python bikeshare_starter.py -peng
+´´´
+
 
 ## Contribution guidelines
 
