@@ -105,13 +105,13 @@ def user_stats(df):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
-    # Display counts of user types
+    # Display counts of user types in integer values
 
 
-    # Display counts of gender
+    # Display counts of gender in integer values
 
 
-    # Display earliest, most recent, and most common year of birth
+    # Display earliest, most recent, and most common year of birth in integer values
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
